@@ -6,15 +6,15 @@ In many real-world scenarios, customer labels are not available, making unsuperv
 This project applies clustering techniques to segment customers based on their demographic and behavioral attributes, enabling meaningful business insights without relying on predefined labels.
 
 ##Objectives:
-Build a real-world applicable customer segmentation system
-Explore customer behavior using Exploratory Data Analysis (EDA)
-Apply and compare multiple unsupervised clustering algorithms
-Interpret clusters in a business-oriented manner
+Build a real-world applicable customer segmentation system;
+Explore customer behavior using Exploratory Data Analysis (EDA);
+Apply and compare multiple unsupervised clustering algorithms;
+Interpret clusters in a business-oriented manner;
 
 ##Dataset Description:
-The dataset is synthetically generated to simulate realistic e-commerce customer behavior.
-A fixed random seed ensures reproducibility.
-No labels are used for training, maintaining the unsupervised nature of the project
+The dataset is synthetically generated to simulate realistic e-commerce customer behavior,
+A fixed random seed ensures reproducibility,
+No labels are used for training, maintaining the unsupervised nature of the project,
 
 | Feature                   | Description                                  |
 | ------------------------- | -------------------------------------------- |
@@ -43,12 +43,12 @@ Customer-Segmentation/
 └── requirements.txt
 
 Key Takeaways:
-Successfully implemented end-to-end unsupervised learning workflow
-Compared multiple clustering algorithms
-Translated model output into meaningful business insights
-Built a reusable foundation for future extensions
+Successfully implemented end-to-end unsupervised learning workflow;
+Compared multiple clustering algorithms;
+Translated model output into meaningful business insights;
+Built a reusable foundation for future extensions;
 
 Future Work:
-Refactor the project using scikit-learn Pipelines for end-to-end inference
-Apply clustering to new incoming customer data
+Refactor the project using scikit-learn Pipelines for end-to-end inference;
+Apply clustering to new incoming customer data;
 Extend the project with supervised learning (e.g., churn prediction)
