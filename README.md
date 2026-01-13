@@ -1,5 +1,8 @@
 # Customer-segmentation-ml
 
+An unsupervised learning project that groups data points into clusters based on feature similarity.
+
+
 ##Project Overview:
 Customer segmentation is a critical task for businesses to understand different types of customers and design targeted strategies.
 In many real-world scenarios, customer labels are not available, making unsupervised learning the appropriate approach.
